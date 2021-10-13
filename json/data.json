@@ -1,0 +1,131 @@
+{
+  "cardMovie": [
+    {
+      "judul": "Peaky Blinders",
+      "sinopsis": "Setelah perang dunia pertama, Birmingham dipernuhi dengan asap industri. Di kota itulah muncul gengster bernama Peaky Blinders. Ketua gengster, Tommy Shelby merupakan seorang veteran tentara Inggris. Selain Tommy, kakak dan adiknya, John Sleby dan Arthur Shelby juga bergabung dalam kelompok kriminal ini.",
+      "image": "peaky.jpg",
+      "netflix": "https://www.netflix.com/id-en/title/80002479",
+      "pemeran": [
+        {
+          "nama": "Cillian Murphy",
+          "as": "Thomas Shelby",
+          "profile": "https://id.wikipedia.org/wiki/Cillian_Murphy",
+          "color": "primary"
+        },
+
+        {
+          "nama": "Helen McCrory",
+          "as": "Bibi Polly",
+          "profile": "https://id.wikipedia.org/wiki/Helen_McCrory",
+          "color": "warning"
+        },
+
+        {
+          "nama": "Paul Anderson",
+          "as": "Arthur Shelby",
+          "profile": "https://en.wikipedia.org/wiki/Paul_Anderson_(actor)",
+          "color": "dark"
+        },
+
+        {
+          "nama": "Joe Cole",
+          "as": "John Shelby",
+          "profile": "https://en.wikipedia.org/wiki/Joe_Cole_(actor)",
+          "color": "danger"
+        },
+
+        {
+          "nama": "Sophie Rundle",
+          "as": "Ada Shelby",
+          "profile": "https://en.wikipedia.org/wiki/Sophie_Rundle",
+          "color": "success"
+        }
+      ]
+    },
+
+    {
+      "judul": "Money Heist",
+      "sinopsis": "Money Heist menceritakan kisah orang asing misterius yang dikenal sebagai Profesor, yang merekrut sekelompok orang aneh untuk melakukan salah satu perampokan terbesar dalam sejarah",
+      "image": "heist.jpg",
+      "netflix": "https://www.netflix.com/id-en/title/80192098",
+      "pemeran": [
+        {
+          "nama": "Úrsula Corberó",
+          "as": "Tokyo",
+          "color": "warning",
+          "profile": "https://en.wikipedia.org/wiki/%C3%9Arsula_Corber%C3%B3"
+        },
+
+        {
+          "nama": "Álvaro Morte",
+          "as": "Professor",
+          "color": "dark",
+          "profile": "https://en.wikipedia.org/wiki/%C3%81lvaro_Morte"
+        },
+
+        {
+          "nama": "Itziar Ituño",
+          "as": "Raquel Murillo",
+          "color": "primary",
+          "profile": "https://id.wikipedia.org/wiki/Itziar_Itu%C3%B1o"
+        },
+
+        {
+          "nama": "Miguel Herrán",
+          "as": "Rio",
+          "color": "danger",
+          "profile": "https://en.wikipedia.org/wiki/Miguel_Herr%C3%A1n"
+        },
+
+        {
+          "nama": "Jaime Lorente",
+          "as": "Denver",
+          "color": "success",
+          "profile": "https://en.wikipedia.org/wiki/Jaime_Lorente"
+        }
+      ]
+    },
+
+    {
+      "judul": "Squid Game",
+      "sinopsis": "Squid Game menceritakan 456 orang putus asa yang mempertaruhkan nyawanya untuk mengikuti serangkaian permainan demi meraih hadiah 45,6 miliar won atau setara Rp 555 miliar. 456 peserta harus melewati berbagai macam rintangan dalam permainan yang sebenarnya mereka sudah pernah mainkan saat masa kecil",
+      "image": "squid.jpg",
+      "netflix": "https://www.netflix.com/id-en/title/81040344",
+      "pemeran": [
+        {
+          "nama": "Jung Ho Yeon",
+          "as": "Sae-Byeok",
+          "color": "dark",
+          "profile": "https://en.wikipedia.org/wiki/HoYeon_Jung"
+        },
+        {
+          "nama": "Park Hae-soo",
+          "as": "Cho Sang-Woo",
+          "color": "primary",
+          "profile": "https://id.wikipedia.org/wiki/Park_Hae-soo"
+        },
+
+        {
+          "nama": "Lee Jung-jae",
+          "as": "Seong Gi-Hun",
+          "color": "danger",
+          "profile": "https://en.wikipedia.org/wiki/Lee_Jung-jae"
+        },
+
+        {
+          "nama": "Wi Ha-joon",
+          "as": "Joon-Ho",
+          "color": "warning",
+          "profile": "https://id.wikipedia.org/wiki/Wi_Ha-joon"
+        },
+
+        {
+          "nama": "Lee Yoo Mi",
+          "as": "Ji-yeong",
+          "color": "success",
+          "profile": "https://id.wikipedia.org/wiki/Lee_Yoo-mi"
+        }
+      ]
+    }
+  ]
+}
